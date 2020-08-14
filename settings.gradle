@@ -1,0 +1,2 @@
+rootProject.name='P_LockTableView'
+include ':app'
